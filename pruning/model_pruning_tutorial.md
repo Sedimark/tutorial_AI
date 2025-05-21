@@ -57,7 +57,8 @@ Different pruning strategies showed strengths in different areas:
 
 ### Benchmark Graph
 
-![Pruning Benchmark Results](pruning_benchmark.png)
+![Pruning Model size Results](model_size_graph.png)
+![Pruning Params and FLOPs Results](params_flops_graph.png)
 
 You can refer to the graph above for a visual representation of the benchmarking results.
 

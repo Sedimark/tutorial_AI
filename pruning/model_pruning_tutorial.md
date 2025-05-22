@@ -41,6 +41,11 @@ In practice, combining unstructured and structured pruning provides a balanced t
 
 ---
 
+### Why Pruning Matters for SEDIMARK
+In the context of the SEDIMARK project, which focuses on secure, efficient, and decentralized AI workflows, pruning plays a vital role in optimizing model deployment across diverse and potentially resource-limited environments. By reducing model size and computational load, pruning enables faster inference and lower energy consumption — both critical for real-world deployment on edge devices and within federated learning systems integral to SEDIMARK's architecture.
+
+---
+
 ## Evaluation and Results
 
 In our internal experiments, applying pruning to transformer-based time series models demonstrated clear benefits:

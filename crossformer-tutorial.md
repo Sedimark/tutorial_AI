@@ -1,4 +1,4 @@
-# How to use the Python package Crossformer for multivariate time series forecasting
+# SEDIMARK Generic Forecasting Tool: How to use the Python package Crossformer for multivariate time series forecasting
 
 ## Introduction
 

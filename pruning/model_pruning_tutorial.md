@@ -1,5 +1,5 @@
 
-## Model Pruning for Efficient Time Series Forecasting
+## SEDIMARK Toolbox: Model Pruning for Efficient Time Series Forecasting
 
 As machine learning models grow in complexity, deploying them in real-world environments—especially on resource-constrained devices—requires a shift from “bigger is better” to “smaller and smarter.” One powerful method to achieve this is **model pruning**.
 

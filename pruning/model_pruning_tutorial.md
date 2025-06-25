@@ -62,8 +62,8 @@ Different pruning strategies showed strengths in different areas:
 
 ### Benchmark Graph
 
-![Pruning Model size Results](model_size_graph.png)
-![Pruning Params and FLOPs Results](params_flops_graph.png)
+![Pruning Model size Results](https://raw.githubusercontent.com/Sedimark/tutorial_AI/main/pruning/model_size_graph.png)
+![Pruning Params and FLOPs Results](https://raw.githubusercontent.com/Sedimark/tutorial_AI/main/pruning/params_flops_graph.png)
 
 You can refer to the graph above for a visual representation of the benchmarking results.
 
